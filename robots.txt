@@ -13,4 +13,4 @@ Allow: /
 User-agent: Baiduspider
 Allow: /
 
-Sitemap: https://yinzishuiwu.cn/sitemap.xml
+Sitemap: https://yinzishuiwu.com/sitemap.xml
